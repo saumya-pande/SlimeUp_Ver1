@@ -71,7 +71,6 @@ public class CameraScript : MonoBehaviour
         transform.LookAt(target);
     }
 
-    // Optional: Method to shake camera (useful for impacts/effects)
     public void ShakeCamera(float intensity, float duration)
     {
         StartCoroutine(ShakeCameraCo(intensity, duration));

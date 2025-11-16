@@ -97,22 +97,4 @@ public class UiManager : MonoBehaviour
             LoseMessage.SetActive(false);
         }
     }
-
-    void Update()
-    {
-        // Check if player is dead
-        PlayerHealth playerHealth = GetComponent<PlayerHealth>();
-        if (playerHealth != null && playerHealth.IsDead) return;
-
-        // ...rest of existing input code...
-    }
-
-    void FixedUpdate()
-    {
-        // Check if player is dead
-        PlayerHealth playerHealth = GetComponent<PlayerHealth>();
-        if (playerHealth != null && playerHealth.IsDead) return;
-
-        // ...rest of existing physics code...
-    }
 }
