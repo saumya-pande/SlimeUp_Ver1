@@ -13,3 +13,4 @@ You can check the game video here -> https://drive.google.com/file/d/15CBN3jHBug
 
 The 3D assets are from Unity Asset Store, 2D sprites are made by me using Aseprite. 
 
+The GDD of the game: https://github.com/saumya-pande/SlimeUp_Ver1/blob/main/Slime%20UP%20(4).pdf
