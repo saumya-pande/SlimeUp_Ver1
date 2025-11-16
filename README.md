@@ -7,3 +7,9 @@
 A simple 3D platformer game that is in development.
 You play as a slime that can blow up and grow in size.
 The player can dash and double jump and use a combination of all these mechanics to overcome challenges in the game. 
+
+
+You can check the game video here -> https://drive.google.com/file/d/15CBN3jHBug8R9bR03LHRRWnUVBIkarMX/view?usp=sharing
+
+The 3D assets are from Unity Asset Store, 2D sprites are made by me using Aseprite. 
+
